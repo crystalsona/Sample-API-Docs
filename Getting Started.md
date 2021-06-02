@@ -1,7 +1,7 @@
 
 [Home](Home) | Getting Started | [API Reference](API Reference) | [How to Contribute](How to Contribute) 
 
-
+# Getting Started
 
 ## Table of Contents
 
