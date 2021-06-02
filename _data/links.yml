@@ -1,2 +1,8 @@
 - name: "Home"
   url: "/"
+- name: "Getting Started"
+  url: "/Getting Started"
+- name: "API Reference"
+  url: "/API Reference"
+- name: "How to Contribute"
+  url: "/How to Contribute"
