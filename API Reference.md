@@ -1,3 +1,14 @@
+[Home](Home) | [Getting Started] Getting Started | API Reference | [How to Contribute](How to Contribute) 
+
+#API Reference
+
+## Table of Contents
+
+* [Introduction](#introduction)
+* [Sample API Call](#sample-api-call)
+* [Sample Response](#sample-response)
+
+
 ## Introduction
 
 "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
@@ -7,7 +18,14 @@ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed 
 ## Sample API Call
 
 | Parameter | Required | Data Type | Description |
+| Parameter | Required | Data Type | Description |
+| Parameter | Required | Data Type | Description |
+| Parameter | Required | Data Type | Description |
+
 
 ## Sample Response
 
+| Parameter | Required | Data Type | Description |
+| Parameter | Required | Data Type | Description |
+| Parameter | Required | Data Type | Description |
 | Parameter | Required | Data Type | Description |
