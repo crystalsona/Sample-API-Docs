@@ -28,6 +28,6 @@ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed 
 ## Sample Response
 
 | Parameter | Required | Data Type | Description |
-| Parameter | Required | Data Type | Description |
+| Parameter Parameter Parameter Parameter| Required Required Required Required  | Data Type Data Type Data Type | Description Description Description |
 | Parameter | Required | Data Type | Description |
 | Parameter | Required | Data Type | Description |
