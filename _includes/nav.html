@@ -1,7 +1,20 @@
-<ul>
+<ul class="navbar">
 {% for link in site.data.links %}
   <li> 
     <a href="{{ link.url }}">{{ link.name }}</a>  
   </li>
 {% endfor %}
 </ul>
+
+<style>
+  .navbar {    
+    display: inline-flex;
+    list-style: none;
+    gap: 10px;
+    margin-left: -2em;
+    font-weight: bolder;
+    text-transform: uppercase;
+
+}
+
+</style>
