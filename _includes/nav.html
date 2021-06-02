@@ -1,5 +1,7 @@
 <ul>
 {% for link in site.data.links %}
-  <li>{{ link.name }}</li>
+  <li> 
+    <a href="{{ link.url }}">{{ link.name }}</a>  
+  </li>
 {% endfor %}
 </ul>
