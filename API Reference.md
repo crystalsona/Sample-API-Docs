@@ -1,4 +1,6 @@
-[Home](Home) | [Getting Started] Getting Started | API Reference | [How to Contribute](How to Contribute) 
+---
+layout: default
+---
 
 #API Reference
 
