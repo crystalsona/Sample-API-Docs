@@ -1,5 +1,5 @@
 
-[Home](/Sample-API-Docs) | Getting Started | [API Reference](API Reference) | [How to Contribute](How to Contribute) 
+[Home](https://crystalsona.github.io/Sample-API-Docs) | Getting Started | [API Reference](API Reference) | [How to Contribute](How to Contribute) 
 
 # Getting Started
 
