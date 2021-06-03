@@ -1,5 +1,5 @@
 
-[Home](/) | Getting Started | [API Reference](API Reference) | [How to Contribute](How to Contribute) 
+[Home](/Sample-API-Docs) | Getting Started | [API Reference](API Reference) | [How to Contribute](How to Contribute) 
 
 # Getting Started
 
