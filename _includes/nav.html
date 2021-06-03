@@ -1,20 +1,23 @@
-<ul class="navbar">
+<div class="navbar">
+<ul class="navbar-list">
 {% for link in site.data.links %}
   <li> 
     <a href="{{ link.url }}">{{ link.name }}</a>  
   </li>
 {% endfor %}
 </ul>
-
+</div>
 <style>
-  .navbar {    
+  .navbar-list {    
     display: inline-flex;
     list-style: none;
     gap: 10px;
-    margin-left: -2em;
     font-weight: bolder;
     text-transform: uppercase;
 
 }
-
+.navbar-list a { 
+  color: red;
+  
+  }
 </style>
